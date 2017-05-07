@@ -1,2 +1,2 @@
 # hello-world
-This is my girst repository.
+I love money.
